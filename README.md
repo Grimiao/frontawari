@@ -1,2 +1,2 @@
 # frontawari
-Curso de Front - Awari
+Repositório destinado ao Curso de Front - Awari
